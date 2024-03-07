@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+
+body{
+  font: normal 15pt arial;
+}
+header {
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.582);
+    color: #f39e84 ;
+}
+section{
+    background-image: linear-gradient(white,#d67355) ;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.459);
+}
+div{
+    text-align: center;
+    padding: 8px;
+}
+#msg{
+    background: white;
+    margin-left:115px;
+    width: 35vw;
+    font-weight: bolder;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.479);
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
